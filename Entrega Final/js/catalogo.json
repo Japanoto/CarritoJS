@@ -1,0 +1,53 @@
+{
+    "productos": {
+      "GPUs": {
+        "Nvidia": [
+          { "nombre": "GTX 1660", "precio": 200, "img": "gtx1660.png" },
+          { "nombre": "RTX 2060", "precio": 300, "img": "rtx2060.png" },
+          { "nombre": "RTX 3080", "precio": 650, "img": "rtx3080.png" },
+          { "nombre": "RTX 4090", "precio": 1500, "img": "rtx4090.png" }
+        ],
+        "AMD": [
+          { "nombre": "RX580", "precio": 150, "img": "rx580.png" },
+          { "nombre": "RX6700", "precio": 400, "img": "rx6700.png" },
+          { "nombre": "RX7600", "precio": 550, "img": "rx7600.png" }
+        ]
+      },
+      "CPUs": {
+        "Intel": [
+          { "nombre": "i3 10300K", "precio": 100, "img": "i3.png" },
+          { "nombre": "i5 10500K", "precio": 300, "img": "i5.png" },
+          { "nombre": "i7 10700K", "precio": 450, "img": "i7.png" },
+          { "nombre": "i9 10900K", "precio": 600, "img": "i9.png" }
+        ],
+        "AMD": [
+          { "nombre": "Ryzen 3 3200G", "precio": 60, "img": "r3.png" },
+          { "nombre": "Ryzen 5 4500G", "precio": 140, "img": "r5-4500.png" },
+          { "nombre": "Ryzen 5 5600X", "precio": 250, "img": "r5-5600.png" },
+          { "nombre": "Ryzen 7 5800X", "precio": 350, "img": "r7-5600.png" },
+          { "nombre": "Ryzen 9 5900X", "precio": 500, "img": "r9-5900.png" },
+          { "nombre": "Ryzen 9 7900X3XD", "precio": 800, "img": "r9-7900.png" }
+        ]
+      },
+      "Motherboards": [
+        { "nombre": "MSI", "precio": 50, "img": "MSI.png" },
+        { "nombre": "Z390", "precio": 120, "img": "z390.png" },
+        { "nombre": "B430", "precio": 70, "img": "b430.png" }
+      ],
+      "RAM": [
+        { "nombre": "4Gb", "precio": 25, "img": "4gb.png" },
+        { "nombre": "8Gb", "precio": 40, "img": "8gb.png" },
+        { "nombre": "16Gb", "precio": 75, "img": "16gb.png" },
+        { "nombre": "32Gb Dual Channel", "precio": 125, "img": "32gb.png" },
+        { "nombre": "64Gb Dual Channel", "precio": 200, "img": "64gb.png" }
+      ],
+      "Fuentes": [
+        { "nombre": "650w plus bronze", "precio": 75, "img": "650w-bronze.png" },
+        { "nombre": "650w plus gold", "precio": 125, "img": "650w-gold.png" },
+        { "nombre": "750w plus gold", "precio": 200, "img": "750w.png" },
+        { "nombre": "1000w plus gold", "precio": 400, "img": "1000w.png" },
+        { "nombre": "1250w plus platinum", "precio": 500, "img": "1250w.png" }
+      ]
+    }
+  }
+  

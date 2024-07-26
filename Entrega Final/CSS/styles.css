@@ -1,0 +1,24 @@
+body {
+    background-color: gold;
+    height: 10%;
+    width: 100%;
+    padding-bottom: 0%;
+}
+.bg{
+    background-color: rgb(44, 44, 44);
+    margin: 2.5%;
+    padding: 2.5%;
+}
+.title {
+    color: gold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.gold {
+    padding: 0.25%;
+    background-color: gold;
+}
+.card-img-top-carrito {
+    width: 25%     !important; /* La imagen ocupará el 25% del ancho del contenedor */
+    height: auto; /* Esto asegura que el aspecto de la imagen se mantenga */
+}
+
